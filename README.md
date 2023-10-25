@@ -21,7 +21,7 @@
 - 2018年7月
   - [background-color和background-image相关细节](./2018-7/background-color和background-image相关细节/index.md)
 - 2018年6月
-  - [使flex-direction： column的子元素height：100%生效的办法](./2018-6/使flex-direction：%20column的子元素height：100%生效的办法/index)
+  - [使flex-direction： column的子元素height：100%生效的办法](./2018-6/使flex-direction：%20column的子元素height：100%25生效的办法/index.md)
   - [巧用padding生成正方形DIV](./2018-6/巧用padding生成正方形DIV/index.md)
 - 2018年3月
   - [10 分钟理解 BFC 原理](./2018-3/10%20分钟理解%20BFC%20原理/index.md)
