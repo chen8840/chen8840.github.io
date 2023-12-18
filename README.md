@@ -121,3 +121,7 @@
   - [impl和dyn用法](./2020-4/impl和dyn用法/index.md)
   - [rust中的ref](./2020-4/rust中的ref/index.md)
   - [如何在Rust中打印变量的类型？](./2020-4/如何在Rust中打印变量的类型？/index.md)
+
+### godot
+- 2023年12月18日
+  - [在godot-4中创建剪影（silhouette）效果](./2023-12/在godot-4中创建剪影（silhouette）效果/index.md)
