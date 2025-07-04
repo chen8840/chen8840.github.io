@@ -59,6 +59,8 @@
   - [typescript中的--strictFunctionTypes选项](./2021-9/typescript中的--strictFunctionTypes选项/index.md)
 - 2020年1月
   - [typescript中的esModuleInterop选项](./2020-1/typescript中的esModuleInterop选项/index.md)
+- 2025年6月
+  - [判断2个类型相等](./2025-6/判断2个类型相等/index.md)
 
 ### ANGULAR
 - 2022年3月
