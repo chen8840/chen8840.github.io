@@ -1,4 +1,6 @@
 ### CSS
+- 2025年7月
+  - [4篇文章掌握grid布局](./2025-7/4篇文章掌握grid布局/index.md)
 - 2023年7月
   - [如何让某一行子元素根据父元素高度变化，当高度足够时不显示滚动条，当高度不够时显示滚动条](./2023-7/如何让某一行子元素根据父元素高度变化，当高度足够时不显示滚动条，当高度不够时显示滚动条/index.md)
   - [如何让父元素的最小宽度为某一个子元素的内容宽度](./2023-7/如何让父元素的最小宽度为某一个子元素的内容宽度/index.md)
@@ -53,6 +55,8 @@
   - [History API与浏览器历史堆栈管理](./2018-3/History%20API与浏览器历史堆栈管理/index.md)
   - [appendChild与Transition动画](./2018-3/appendChild与Transition动画/index.md)
   - [escape，unescape与encodeURIComponent，decodeURIComponent](./2018-3/escape，unescape与encodeURIComponent，decodeURIComponent/index.md)
+- 2025年9月
+  - [下载文件中包含%符号的处理办法](./2025-9/下载文件中包含%符号的处理办法/index.md)
 
 ### TYPESCRIPT
 - 2021年9月
@@ -62,6 +66,8 @@
 - 2025年6月
   - [判断2个类型相等](./2025-6/判断2个类型相等/index.md)
   - [ts的不变性(invariance)检查](./2025-6/ts的不变性%20(invariance)%20检查/index.md)
+- 2025年9月
+  - [从ts体操类型学到的知识](./2025-9/从ts体操类型学到的知识/index.md)
 
 ### ANGULAR
 - 2022年3月
