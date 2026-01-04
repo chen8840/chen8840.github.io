@@ -28,7 +28,9 @@ npm install ngx-i18nsupport --save-dev
 {
   "xliffmergeOptions": {
     "srcDir": "src/i18n",
-    "genDir": "src/i18n"
+    "genDir": "src/i18n",
+    "defaultLanguage": "zh",
+    "languages": ["en"]
   }
 }
 ```
